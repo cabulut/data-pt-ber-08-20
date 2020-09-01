@@ -12,6 +12,8 @@
 [Github](https://github.com/cabulut)
 
 
-**P.S If you read this you must be either so bored or you are looking for the solutions of IronHack pre-work**
+**P.S If you read this you must be either so bored or you are looking for the solutions of IronHack pre-work, but either way hello! world**
+
+**If you wanna learn about Zen of Python, try ---** *import this*
 
 
